@@ -3,7 +3,7 @@ const shareBtn = document.getElementById("shareBtn");
 const shareLinks = document.getElementById("shareLinks");
 
 shareBtn.onclick = () => {
-    window.open("https://linktr.ee/mposunslotgacor", "_blank")
+    window.open("https://heylink.me/selisih2rb/", "_blank")
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
@@ -32,7 +32,7 @@ overlay.addEventListener("click", () => {
     overlay.classList.remove("show");
 
     // Aksi setelah klik
-    window.open("https://linktr.ee/mposunslotgacor", "_blank");
+    window.open("https://heylink.me/selisih2rb/", "_blank");
 });
 
 
